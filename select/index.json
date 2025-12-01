@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sixteen Tons",
+  "base_artist": "Geoff Castellucci",
+  "createdAt": "2025-12-01T04:01:20.166697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/01_Sixteen_Tons_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "16トン(Sixteen Tons)",
+      "artist": "テネシー・アーニー・フォード",
+      "has_synced": false,
+      "path": "select/02_16トン(Sixteen_Tons)_テネシー・アーニー・フォード.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sixteen Tons (Remastered)",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/03_Sixteen_Tons_(Remastered)_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sixteen tons",
+      "artist": "Stan Ridgway",
+      "has_synced": true,
+      "path": "select/04_sixteen_tons_Stan_Ridgway.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "L'Ascensore (Sixteen Tons)",
+      "artist": "Adriano Celentano",
+      "has_synced": false,
+      "path": "select/05_L'Ascensore_(Sixteen_Tons)_Adriano_Celentano.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "The Platters",
+      "has_synced": false,
+      "path": "select/06_Sixteen_Tons_The_Platters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/07_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/08_Sixteen_Tons_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/09_Sixteen_Tons_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/10_Sixteen_Tons_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/11_Sixteen_Tons_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/12_Sixteen_Tons_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sixteen Tons (Live from London)",
+      "artist": "ZZ Top feat. Jeff Beck",
+      "has_synced": false,
+      "path": "select/13_Sixteen_Tons_(Live_from_London)_ZZ_Top_feat._Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sixteen Tons (feat. Jeff Beck) [Live from London]",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/14_Sixteen_Tons_(feat._Jeff_Beck)_[Live_from_London]_ZZ_Top.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": true,
+      "path": "select/15_Sixteen_Tons_Tennessee_Ernie_Ford.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/pl_01_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/pl_02_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/pl_03_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/pl_04_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "has_synced": false,
+      "path": "select/pl_05_Sixteen_Tons_Tennessee_Ernie_Ford.txt"
+    }
+  ]
+}
